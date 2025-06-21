@@ -4,7 +4,7 @@
  * Professor: James Mwangi
  * Assessment: Assignment 1
  * Section: 310
- * */
+*/
 package testinventory;
 import grocerystore.GroceryStore;
 import inventoryexception.InventoryException;
