@@ -9,7 +9,7 @@ package testinventory;
 import grocerystore.GroceryStore;
 import inventoryexception.InventoryException;
 
-// Class to test the inventory management application
+// Main entry point used for manually running the application
 public class TestInventoryApp {
     
     // Main method to run the inventory management application
